@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  8,
-    "latestVersionName":  "1.3.2",
-    "minVersionCode":  8,
-    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-1.3.2-code8.apk",
-    "sha256":  "25494cfa01a92174cf56d36357093445b2981bdee5b268faa274f04f4345ed88",
-    "message":  ""
+    "latestVersionCode":  9,
+    "latestVersionName":  "1.3.3",
+    "minVersionCode":  9,
+    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-1.3.3-code9.apk",
+    "sha256":  "fba01a36b7a8d75c70bf99548659e183f9eeb8c876b66287a84e28840c121320",
+    "message":  "Layout fix. This update is mandatory."
 }
