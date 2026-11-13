@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  9,
-    "latestVersionName":  "1.3.3",
-    "minVersionCode":  9,
-    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-1.3.3-code9.apk",
-    "sha256":  "fba01a36b7a8d75c70bf99548659e183f9eeb8c876b66287a84e28840c121320",
-    "message":  "Layout fix. This update is mandatory."
+    "latestVersionCode":  10,
+    "latestVersionName":  "1.4.0",
+    "minVersionCode":  10,
+    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-1.4.0-code10.apk",
+    "sha256":  "34f12193d3b18ce9509a5d204a06d09375e8a0c3e5d2ad3772af652a4c72db40",
+    "message":  "New features: quick sale, stock history, day book, purchases and more. This update is mandatory."
 }
