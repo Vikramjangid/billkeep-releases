@@ -1,8 +1,8 @@
 {
-    "latestVersionCode":  11,
-    "latestVersionName":  "1.5.0",
-    "minVersionCode":  11,
-    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-1.5.0-code11.apk",
-    "sha256":  "c7a34ad724c9e7b41280b3f7a7788ec1d72c5efff95612a855bc5f6226ef5c01",
-    "message":  "BillKeep 1.5.0: All tools screen, split payment and wholesale prices in Quick sale, stock history for sizes, Sales today, backup failure warning. This update is mandatory."
+    "latestVersionCode":  12,
+    "latestVersionName":  "2.0.0",
+    "minVersionCode":  12,
+    "apkUrl":  "https://raw.githubusercontent.com/Vikramjangid/billkeep-releases/main/apk/BillKeep-2.0.0-code12.apk",
+    "sha256":  "14630c06599bfe5a08f95b247c0c3319d3db28f773eca399969736d958f5abb5",
+    "message":  ""
 }
